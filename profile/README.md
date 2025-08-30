@@ -7,21 +7,17 @@ To harness the power of AI-centric development, providing innovative, scalable, 
 # Our Vision
 To be a pioneering Bangladeshi tech company that leverages artificial intelligence to transform industries, empower local talent, and contribute to global technological advancement while setting new standards for innovation and excellence.
 
-Why Brands Choose DevsAround
-✅ 10+ Years of Experience
-✅ 200+ Projects Delivered
-✅ 98% Client Satisfaction
-✅ Global Clients, Local Talent
-🌟 Success Stories
-🖥️ BSI Global – Corporate Website
-🎓 Charted LMS – Learning Management System
-🏥 NurseOnCall – Healthcare Job Platform
-🛍️ Prim-U – Beauty & Cosmetics E-Commerce
-🧭 IFSA Cambodia – Official Association Website
-💬 Client Testimonial
+# Why Brands Choose DevsAround
+- ✅ 10+ Years of Experience
+- ✅ 200+ Projects Delivered
+- ✅ 98% Client Satisfaction
+- ✅ Global Clients, Local Talent
+
+# 💬 Client Testimonial
 "DevsAround transformed our business with their AI-powered solution. Their technical expertise and commitment to our vision exceeded expectations. The final product was delivered on time and significantly improved our operational efficiency."
+
 — Mats Ribaucourt, Founder, Benelux Software International
-📩 Let’s Build Your Next Big Thing
-📞 Contact Us
-🌐 Website: www.devsaround.com
-📧 Email: info@devsaround.com
+
+# 📞 Contact Us
+- 🌐 Website: www.devsaround.com
+- 📧 Email: info@devsaround.com
